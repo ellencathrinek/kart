@@ -1,6 +1,6 @@
 {
-  "title": "International Development World Map",
-  "subtitle": "Country presence 1992–2025",
+  "title": "Ut på tur World Map",
+  "subtitle": "Country presence 1972–2025",
   "titleFontSize": 22,
   "subtitleFontSize": 20,
   "map": {
@@ -26,11 +26,11 @@
   },
   "types": {
     "1": {
-      "role": "Country program",
+      "role": "Countries lived in",
       "color": "#27ae60"
     },
     "2": {
-      "role": "Thematic projects",
+      "role": "Countries visited",
       "color": "#e67e22"
     },
     "3": {
