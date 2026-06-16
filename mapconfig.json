@@ -1,12 +1,12 @@
 {
-  "title": "Ellen's test Map",
-  "subtitle": "Country presence 1992–2025",
+  "title": "",
+  "subtitle": "",
   "titleFontSize": 22,
   "subtitleFontSize": 20,
 
   "map": {
     "borderWidth": 0.5,
-    "borderColor": "#aaaaaa"
+    "borderColor": "blue"
   },
 
   "zoom": {
