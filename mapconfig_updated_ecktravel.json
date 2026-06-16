@@ -694,6 +694,121 @@
         }
       }
     },
+
+     "TU": {
+      "name": "Turkiye",
+      "years": {
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
     "DK": {
       "name": "Denmark",
       "years": {
