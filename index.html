@@ -58,9 +58,10 @@
         }
     </style>
 </head>
+
 <body>
     <div class="container">
-        <div class="emoji">🌍🧭🎺</div>
+        <div class="emoji">🌍🧭</div>
         <h1>Utforsk kartene!</h1>
         <p>Velg hva du vil se:</p>
 
@@ -69,12 +70,21 @@
                 🚀 Verdenskart
             </button>
 
-            <button onclick="openKorpsMap()">
-                🎺 Korpsturer
+            <button onclick="openTravelMap()">
+                ✈️ Mine reiser
             </button>
         </div>
     </div>
 
     <script>
         function openWorldMap() {
-            window.open(
+            window.open("mapconfig_updated.json", "_blank");
+        }
+
+        function openTravelMap() {
+            window.open("mapconfig_updated_ecktravel.json", "_blank");
+        }
+    </script>
+</body>
+</html>
+``
