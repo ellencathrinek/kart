@@ -1,1 +1,71 @@
-Hei
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <title>🌍 Verdenskart</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, #87ceeb, #e0f7fa);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        button {
+            font-size: 18px;
+            padding: 15px 30px;
+            border-radius: 50px;
+            border: none;
+            cursor: pointer;
+            background: #0078d4;
+            color: white;
+            transition: all 0.25s ease;
+        }
+
+        button:hover {
+            background: #005fa3;
+            transform: scale(1.1) rotate(-2deg);
+        }
+
+        .emoji {
+            font-size: 40px;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="emoji">🌍🧭</div>
+        <h1>Utforsk verdenskartet!</h1>
+        <p>Trykk på knappen for å åpne kartet</p>
+
+        <button onclick="openMap()">
+            🚀 Åpne kartet
+        </button>
+    </div>
+
+    <script>
+        function openMap() {
+            window.open(
+                "https://www.eriksberg.no/Maps/World/?config=https://raw.githubusercontent.com/ellencathrinek/kart/main/mapconfig.json",
+                "_blank"
+            );
+        }
+    </script>
+</body>
+</html>
