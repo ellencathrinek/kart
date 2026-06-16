@@ -26,6 +26,16 @@
             margin-bottom: 20px;
         }
 
+        p {
+            margin-bottom: 25px;
+        }
+
+        .button-group {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
         button {
             font-size: 18px;
             padding: 15px 30px;
@@ -50,22 +60,21 @@
 </head>
 <body>
     <div class="container">
-        <div class="emoji">🌍🧭</div>
-        <h1>Utforsk verdenskartet!</h1>
-        <p>Trykk på knappen for å åpne kartet</p>
+        <div class="emoji">🌍🧭🎺</div>
+        <h1>Utforsk kartene!</h1>
+        <p>Velg hva du vil se:</p>
 
-        <button onclick="openMap()">
-            🚀 Åpne kartet
-        </button>
+        <div class="button-group">
+            <button onclick="openWorldMap()">
+                🚀 Verdenskart
+            </button>
+
+            <button onclick="openKorpsMap()">
+                🎺 Korpsturer
+            </button>
+        </div>
     </div>
 
     <script>
-        function openMap() {
+        function openWorldMap() {
             window.open(
-                "https://www.eriksberg.no/Maps/World/?config=https://raw.githubusercontent.com/ellencathrinek/kart/main/mapconfig.json",
-                "_blank"
-            );
-        }
-    </script>
-</body>
-</html>
