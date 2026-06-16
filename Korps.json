@@ -1,5 +1,5 @@
 {
-  "title": "International Development World Map",
+  "title": "ECs korpsturer",
   "subtitle": "Country presence 1992–2025",
   "titleFontSize": 22,
   "subtitleFontSize": 20,
@@ -28,9 +28,9 @@
 
 
   "types": {
-    "1": { "role": "Country program", "color": "#27ae60" },
-    "2": { "role": "Thematic projects",  "color": "#e67e22" },
-    "3": { "role": "Organizer",  "color":  "yellow"  }
+    "1": { "role": "Slagverk", "color": "#27ae60" },
+    "2": { "role": "Fløyte",  "color": "#e67e22" },
+    "3": { "role": "Fanebærer",  "color":  "red"  }
   },
 
   "countries": {
@@ -472,136 +472,7 @@
       }
     },
 
-    "ER": { "name": "Eritrea",
-      "years": {
-        "1994": { "type": 1, "opacity": 44 },
-        "1995": { "type": 1, "opacity": 33 },
-        "1996": { "type": 1, "opacity": 33 },
-        "1997": { "type": 1, "opacity": 33 },
-        "1998": { "type": 1, "opacity": 33 },
-        "1999": { "type": 1, "opacity": 33 },
-        "2000": { "type": 1, "opacity": 33 },
-        "2001": { "type": 1, "opacity": 44 },
-        "2004": { "type": 1, "opacity": 44 },
-        "2005": { "type": 1, "opacity": 33 },
-        "2006": { "type": 1, "opacity": 33 },
-        "2007": { "type": 1, "opacity": 33 },
-        "2008": { "type": 1, "opacity": 33 },
-        "2009": { "type": 1, "opacity": 44 }
-      }
-    },
-    "PS": { "name": "Palestine",
-      "years": {
-        "1994": { "type": 1, "opacity": 44 },
-        "1995": { "type": 1, "opacity": 33 },
-        "1996": { "type": 1, "opacity": 33 },
-        "1997": { "type": 1, "opacity": 33 },
-        "1998": { "type": 1, "opacity": 33 },
-        "1999": { "type": 1, "opacity": 33 },
-        "2000": { "type": 1, "opacity": 33 },
-        "2001": { "type": 1, "opacity": 33 },
-        "2002": { "type": 1, "opacity": 33 },
-        "2003": { "type": 1, "opacity": 44 }
-      }
-    },
-    "EE": { "name": "Estonia",
-      "years": {
-        "1995": { "type": 1, "opacity": 44 }
-      }
-    },
-    "LV": { "name": "Latvia",
-      "years": {
-        "1995": { "type": 1, "opacity": 44 }
-      }
-    },
-    "LT": { "name": "Lithuania",
-      "years": {
-        "1996": { "type": 1, "opacity": 44 },
-        "1997": { "type": 1, "opacity": 33 },
-        "1998": { "type": 1, "opacity": 44 }
-      }
-    },
-    "AO": { "name": "Angola",
-      "years": {
-        "1997": { "type": 1, "opacity": 44 },
-        "1998": { "type": 1, "opacity": 33 },
-        "1999": { "type": 1, "opacity": 33 },
-        "2000": { "type": 1, "opacity": 33 },
-        "2001": { "type": 1, "opacity": 33 },
-        "2002": { "type": 1, "opacity": 33 },
-        "2003": { "type": 1, "opacity": 33 },
-        "2004": { "type": 1, "opacity": 33 },
-        "2005": { "type": 1, "opacity": 33 },
-        "2006": { "type": 1, "opacity": 33 },
-        "2007": { "type": 1, "opacity": 33 },
-        "2008": { "type": 1, "opacity": 44 }
-      }
-    },
-    "CN": { "name": "China",
-      "years": {
-        "1997": { "type": 1, "opacity": 44 },
-        "1998": { "type": 1, "opacity": 33 },
-        "1999": { "type": 1, "opacity": 33 },
-        "2000": { "type": 1, "opacity": 33 },
-        "2001": { "type": 1, "opacity": 44 }
-      }
-    },
-    "MD": { "name": "Republic of Moldova",
-      "years": {
-        "2004": { "type": 1, "opacity": 44 },
-        "2005": { "type": 1, "opacity": 33 },
-        "2006": { "type": 1, "opacity": 33 },
-        "2007": { "type": 1, "opacity": 33 },
-        "2008": { "type": 1, "opacity": 33 },
-        "2009": { "type": 1, "opacity": 33 },
-        "2010": { "type": 1, "opacity": 33 },
-        "2011": { "type": 1, "opacity": 33 },
-        "2012": { "type": 1, "opacity": 33 },
-        "2013": { "type": 1, "opacity": 33 },
-        "2014": { "type": 1, "opacity": 44 }
-      }
-    },
-    "NI": { "name": "Nicaragua",
-      "years": {
-        "2004": { "type": 1, "opacity": 44 },
-        "2005": { "type": 1, "opacity": 44 }
-      }
-    },
-    "KZ": { "name": "Kazakhstan",
-      "years": {
-        "2005": { "type": 1, "opacity": 44 },
-        "2006": { "type": 1, "opacity": 33 },
-        "2007": { "type": 1, "opacity": 33 },
-        "2008": { "type": 1, "opacity": 33 },
-        "2009": { "type": 1, "opacity": 33 },
-        "2010": { "type": 1, "opacity": 33 },
-        "2011": { "type": 1, "opacity": 33 },
-        "2012": { "type": 1, "opacity": 33 },
-        "2013": { "type": 1, "opacity": 44 }
-      }
-    },
-    "KG": { "name": "Kyrgyzstan",
-      "years": {
-        "2005": { "type": 1, "opacity": 44 },
-        "2006": { "type": 1, "opacity": 33 },
-        "2007": { "type": 1, "opacity": 33 },
-        "2008": { "type": 1, "opacity": 33 },
-        "2009": { "type": 1, "opacity": 33 },
-        "2010": { "type": 1, "opacity": 33 },
-        "2011": { "type": 1, "opacity": 33 },
-        "2012": { "type": 1, "opacity": 33 },
-        "2013": { "type": 1, "opacity": 33 },
-        "2014": { "type": 1, "opacity": 33 },
-        "2015": { "type": 1, "opacity": 33 },
-        "2016": { "type": 1, "opacity": 33 },
-        "2017": { "type": 1, "opacity": 33 },
-        "2018": { "type": 1, "opacity": 33 },
-        "2019": { "type": 1, "opacity": 33 },
-        "2020": { "type": 1, "opacity": 33 },
-        "2021": { "type": 1, "opacity": 33 },
-        "2022": { "type": 1, "opacity": 44 }
-      }
-    },
+
     "TJ": { "name": "Tajikistan",
       "years": {
         "2012": { "type": 1, "opacity": 44 }
