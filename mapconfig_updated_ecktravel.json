@@ -1,0 +1,7100 @@
+{
+  "title": "International Development World Map",
+  "subtitle": "Country presence 1992–2025",
+  "titleFontSize": 22,
+  "subtitleFontSize": 20,
+  "map": {
+    "borderWidth": 0.5,
+    "borderColor": "#aaaaaa"
+  },
+  "zoom": {
+    "center": [
+      38,
+      19
+    ],
+    "default": 2.2,
+    "min": 2,
+    "max": 5
+  },
+  "interval": {
+    "from": 1990,
+    "to": 2025
+  },
+  "opacity": {
+    "name": "Complete",
+    "suffix": "%"
+  },
+  "types": {
+    "1": {
+      "role": "Country program",
+      "color": "#27ae60"
+    },
+    "2": {
+      "role": "Thematic projects",
+      "color": "#e67e22"
+    },
+    "3": {
+      "role": "Organizer",
+      "color": "yellow"
+    }
+  },
+  "countries": {
+    "NO": {
+      "name": "Norway",
+      "years": {
+        "1972": {
+          "type": 1,
+          "opacity": 44
+        },
+        "1973": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1974": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1975": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1976": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1977": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1978": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1979": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1980": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1981": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1982": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1983": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1984": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1985": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1986": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 1,
+          "opacity": 44
+        }
+      }
+    },
+    "TZ": {
+      "name": "Tanzania",
+      "years": {
+        "1975": {
+          "type": 1,
+          "opacity": 44
+        },
+        "1976": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1977": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1978": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1979": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1980": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1981": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1982": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1983": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1984": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1985": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1986": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 1,
+          "opacity": 44
+        }
+      }
+    },
+    "SE": {
+      "name": "Sweden",
+      "years": {
+        "1974": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1975": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1976": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1977": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1978": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1979": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1980": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1981": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1982": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1983": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1984": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1985": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "DK": {
+      "name": "Denmark",
+      "years": {
+        "1974": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1975": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1976": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1977": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1978": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1979": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1980": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1981": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1982": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1983": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1984": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1985": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "years": {
+        "1977": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1978": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1979": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1980": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1981": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1982": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1983": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1984": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1985": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "GR": {
+      "name": "Greece",
+      "years": {
+        "1977": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1978": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1979": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1980": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1981": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1982": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1983": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1984": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1985": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "EG": {
+      "name": "Egypt",
+      "years": {
+        "1977": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1978": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1979": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1980": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1981": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1982": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1983": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1984": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1985": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "IS": {
+      "name": "Iceland",
+      "years": {
+        "1981": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1982": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1983": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1984": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1985": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "FI": {
+      "name": "Finland",
+      "years": {
+        "1980": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1981": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1982": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1983": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1984": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1985": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "FR": {
+      "name": "France",
+      "years": {
+        "1985": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "NL": {
+      "name": "Netherlands",
+      "years": {
+        "1985": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "IT": {
+      "name": "Italy",
+      "years": {
+        "1986": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "CH": {
+      "name": "Switzerland",
+      "years": {
+        "1986": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "AT": {
+      "name": "Austria",
+      "years": {
+        "1985": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "TH": {
+      "name": "Thailand",
+      "years": {
+        "1989": {
+          "type": 1,
+          "opacity": 44
+        },
+        "1990": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 1,
+          "opacity": 44
+        }
+      }
+    },
+    "HK": {
+      "name": "Hong Kong",
+      "years": {
+        "1989": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "SG": {
+      "name": "Singapore",
+      "years": {
+        "1990": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "NP": {
+      "name": "Nepal",
+      "years": {
+        "1990": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "RU": {
+      "name": "Russia",
+      "years": {
+        "1990": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "OM": {
+      "name": "Oman",
+      "years": {
+        "1990": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "IN": {
+      "name": "India",
+      "years": {
+        "1990": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "MZ": {
+      "name": "Mozambique",
+      "years": {
+        "1996": {
+          "type": 1,
+          "opacity": 44
+        },
+        "1997": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 1,
+          "opacity": 44
+        }
+      }
+    },
+    "ZA": {
+      "name": "South Africa",
+      "years": {
+        "1996": {
+          "type": 1,
+          "opacity": 44
+        },
+        "1997": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 1,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 1,
+          "opacity": 44
+        }
+      }
+    },
+    "KE": {
+      "name": "Kenya",
+      "years": {
+        "1976": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1977": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1978": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1979": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1980": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1981": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1982": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1983": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1984": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1985": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1986": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "SZ": {
+      "name": "Eswatini",
+      "years": {
+        "1996": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "LS": {
+      "name": "Lesotho",
+      "years": {
+        "1996": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "BW": {
+      "name": "Botswana",
+      "years": {
+        "1996": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "ZW": {
+      "name": "Zimbabwe",
+      "years": {
+        "1996": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "MM": {
+      "name": "Myanmar",
+      "years": {
+        "2004": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "BO": {
+      "name": "Bolivia",
+      "years": {
+        "2000": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "DE": {
+      "name": "Germany",
+      "years": {
+        "1986": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1987": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1988": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1989": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1990": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1991": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1992": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1993": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "CZ": {
+      "name": "Czech Republic",
+      "years": {
+        "1993": {
+          "type": 2,
+          "opacity": 44
+        },
+        "1994": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1995": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1996": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1997": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1998": {
+          "type": 2,
+          "opacity": 33
+        },
+        "1999": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2000": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2001": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "ES": {
+      "name": "Spain",
+      "years": {
+        "2001": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "PT": {
+      "name": "Portugal",
+      "years": {
+        "2011": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "KH": {
+      "name": "Cambodia",
+      "years": {
+        "2013": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "BD": {
+      "name": "Bangladesh",
+      "years": {
+        "2014": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "PK": {
+      "name": "Pakistan",
+      "years": {
+        "2015": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "MW": {
+      "name": "Malawi",
+      "years": {
+        "2007": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "AO": {
+      "name": "Angola",
+      "years": {
+        "2005": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "SS": {
+      "name": "South Sudan",
+      "years": {
+        "2010": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "SD": {
+      "name": "Sudan",
+      "years": {
+        "2010": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "GH": {
+      "name": "Ghana",
+      "years": {
+        "2015": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "ET": {
+      "name": "Ethiopia",
+      "years": {
+        "2016": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "KG": {
+      "name": "Kyrgyzstan",
+      "years": {
+        "2012": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "UA": {
+      "name": "Ukraine",
+      "years": {
+        "2011": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      },
+      "source": "ukraine.json"
+    },
+    "ID": {
+      "name": "Indonesia",
+      "years": {
+        "2014": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "LK": {
+      "name": "Sri Lanka",
+      "years": {
+        "2007": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "QA": {
+      "name": "Qatar",
+      "years": {
+        "2007": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "UG": {
+      "name": "Uganda",
+      "years": {
+        "2019": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "US": {
+      "name": "United States",
+      "years": {
+        "2004": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "CW": {
+      "name": "Curaçao",
+      "years": {
+        "2022": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "VA": {
+      "name": "Vatican City",
+      "years": {
+        "2010": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "AD": {
+      "name": "Andorra",
+      "years": {
+        "2001": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2002": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2003": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2004": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2005": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2006": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2007": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2008": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2009": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2010": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2011": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2012": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2013": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2014": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2015": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2016": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2017": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2018": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "BE": {
+      "name": "Belgium",
+      "years": {
+        "2023": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "LU": {
+      "name": "Luxembourg",
+      "years": {
+        "2023": {
+          "type": 1,
+          "opacity": 44
+        },
+        "2024": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 1,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 1,
+          "opacity": 44
+        }
+      }
+    },
+    "PL": {
+      "name": "Poland",
+      "years": {
+        "2018": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2019": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "EE": {
+      "name": "Estonia",
+      "years": {
+        "2019": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2020": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2021": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2022": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "LT": {
+      "name": "Lithuania",
+      "years": {
+        "2022": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "LV": {
+      "name": "Latvia",
+      "years": {
+        "2022": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "VN": {
+      "name": "Vietnam",
+      "years": {
+        "2022": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "HR": {
+      "name": "Croatia",
+      "years": {
+        "2022": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2023": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2024": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "SI": {
+      "name": "Slovenia",
+      "years": {
+        "2024": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "XK": {
+      "name": "Kosovo",
+      "years": {
+        "2024": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    },
+    "AL": {
+      "name": "Albania",
+      "years": {
+        "2024": {
+          "type": 2,
+          "opacity": 44
+        },
+        "2025": {
+          "type": 2,
+          "opacity": 33
+        },
+        "2026": {
+          "type": 2,
+          "opacity": 44
+        }
+      }
+    }
+  }
+}
